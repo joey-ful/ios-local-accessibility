@@ -48,6 +48,7 @@
                     <connections>
                         <outlet property="currencyLabel" destination="jKZ-YX-Wfs" id="KQr-L3-Drv"/>
                         <outlet property="dateTimeLabel" destination="tch-Km-eL3" id="0tf-qB-Bab"/>
+                        <outlet property="welcomeLabel" destination="kJK-lo-ifp" id="GXa-Ie-Jzl"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>

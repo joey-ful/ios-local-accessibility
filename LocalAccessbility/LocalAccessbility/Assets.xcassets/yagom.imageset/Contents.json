@@ -1,23 +1,44 @@
 {
   "images" : [
     {
-      "filename" : "yagom~universal@1x.png",
+      "filename" : "yagom~universal@1x-1.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "yagom~universal@2x.png",
+      "filename" : "yagom~universal@2x-1.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "yagom~universal@3x.png",
+      "filename" : "yagom~universal@3x-1.png",
       "idiom" : "universal",
+      "scale" : "3x"
+    },
+    {
+      "filename" : "야곰.png",
+      "idiom" : "universal",
+      "locale" : "ko",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "야곰@2x.png",
+      "idiom" : "universal",
+      "locale" : "ko",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "야곰@3x.png",
+      "idiom" : "universal",
+      "locale" : "ko",
       "scale" : "3x"
     }
   ],
   "info" : {
     "author" : "xcode",
     "version" : 1
+  },
+  "properties" : {
+    "localizable" : true
   }
 }
